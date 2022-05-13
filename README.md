@@ -1,3 +1,3 @@
 # portfolio
 
-https://belskiysergey.github.io/portfolio/
+https://belskiysergey.github.io/portfolio/index.html
