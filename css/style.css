@@ -1,0 +1,29 @@
+body {
+  background: url(../img/5333978.jpg) no-repeat;
+}
+.main {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  width: 1176px;
+  margin: 0 auto;
+}
+.page {
+  width: 350px;
+  height: 350px;
+  margin: 20px;
+  transition: 0.2s;
+  overflow: hidden;
+  /* border: grey 1px solid; */
+  border-bottom-left-radius: 40%;
+  border-top-right-radius: 40%;
+  border-bottom-right-radius: 5%;
+  border-top-left-radius: 5%;
+}
+.page:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 9px 12px rgb(119 136 153);
+}
+.img {
+  width: 100%;
+}
